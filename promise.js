@@ -1,4 +1,4 @@
-// Build a custom Promise 
+// Build a promise response using 'Promise' class
 // Use this syntax if you want manual control over resolve and reject 
 
 function callTask(status) {
